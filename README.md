@@ -1,12 +1,18 @@
-<h1 align="center">Hi 👋, I'm Bora Cirit</h1>
-<h3 align="center">A curious backend learner from TR</h3>
+<h1 align="center">Hi 🙌, I'm Bora Cirit</h1>
+<h3 align="center">A curious backend learner :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boracrt" alt="boracrt" /></a> </p>
+- 🌱 I’m currently learning **.Net Framework**
+
+- 📝 I regularly write articles on [Role of Robots from Production](Role of Robots from Production)
+
+- 📫 How to reach me **bcirit34@gmail.com**
+
+- 📄 Know about my experiences [5 Months of Kotlin Development , I have been developing backend for 5 months](5 Months of Kotlin Development , I have been developing backend for 5 months)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/boracirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boracirit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/boracirit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boracirit" height="30" width="40" /></a>
+<a href="https://twitter.com/boracrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="boracrt" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bora-cirit-a90364227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bora-cirit-a90364227/" height="30" width="40" /></a>
 <a href="https://instagram.com/boracrt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="boracrt" height="30" width="40" /></a>
 </p>
 
