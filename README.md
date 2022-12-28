@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bcirit34@gmail.com**
 
-- 📄 Know about my experiences [5 Months of Kotlin Development , I have been developing backend for 5 months](5 Months of Kotlin Development , I have been developing backend for 5 months)
+- 📄 Know about my experiences [5 Months of Kotlin Development , I have been developing backend for 5 months](
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
