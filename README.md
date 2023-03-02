@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bcirit34@gmail.com**
 
-- 📄 Know about my experiences 5 Months of Kotlin Development , I have been developing backend for 5 months on .Net Framework
+- 📄 Know about my experiences 5 Months of Kotlin Development , I have been developing backend still on .Net Framework
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
